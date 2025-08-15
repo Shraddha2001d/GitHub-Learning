@@ -1,12 +1,16 @@
-# Data Analytics Practice
-This repository contains my daily practice work and projects for **Data Analytics** using Excel, Power BI, SQL and Python.
+# 📙My GitHub Learning Diary
 
-## Tools Used
-- Microsoft Excel
-- Power BI
-- SQL (MySQL)
-- Tableau
-- Python (Pandas, Matplotlib, etc.)
+Hi!👋
+This is where I'am learning **how to use GitHub step-by-step.
+It's my safe space to try, make mistakes and get better every day.
 
-  ## Goal
-  To improve my skills in data cleaning, visualization and analysis through daily practice and small projects.
+## What I'm Doing Here 
+- Creating my first repositories
+- Adding and uploading files
+- Writing README files (like this one!)
+- Maikng commits and updates
+- Exploring GitHub features one by one
+  
+  ## Note to Myself
+  Every commit is a small step forward. Keep going!🚀
+  
