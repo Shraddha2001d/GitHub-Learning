@@ -13,5 +13,6 @@ Date: 15 August 2025
 - To make a folder directly on GitHub, type foldername/filename while creating a new file
 - Always write a short, clear commit message
 - README files make your repo easier to understand
-
+- We can't open Excel files (.xlsx, .xls) and word files(.docx) on GitHub.
+  GitHub will only show the file name and a download option.
 
