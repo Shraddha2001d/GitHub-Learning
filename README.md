@@ -1,4 +1,4 @@
-# 📙My GitHub Learning Diary
+# 📘My GitHub Learning Diary
 
 Hi!👋
 This is where I'am learning **how to use GitHub step-by-step.
